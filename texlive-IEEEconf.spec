@@ -6,7 +6,7 @@
 # catalog-version 1.4
 Name:		texlive-IEEEconf
 Version:	1.4
-Release:	10
+Release:	11
 Summary:	Macros for IEEE conference proceedings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/IEEEconf
