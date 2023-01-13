@@ -1,6 +1,6 @@
 Name:		texlive-ieeeconf
 Version:	59665
-Release:	1
+Release:	2
 Summary:	Macros for IEEE conference proceedings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ieeeconf
