@@ -3,7 +3,7 @@ Version:	59665
 Release:	4
 Summary:	Macros for IEEE conference proceedings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ieeeconf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ieeeconf
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ieeeconf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ieeeconf.doc.r%{version}.tar.xz
